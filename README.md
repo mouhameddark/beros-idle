@@ -1,0 +1,2 @@
+# beros-idle
+idle game
